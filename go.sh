@@ -7,6 +7,6 @@ go version
 go
 
 
-cd app-sealgo
+cd DockerSeal2
 go mod init app-sealgo
 go mod tidy
